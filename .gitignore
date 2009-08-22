@@ -1,2 +1,5 @@
 *.pyc
 gen-py
+.DS_Store
+dist
+MANIFEST
