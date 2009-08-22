@@ -1,0 +1,19 @@
+README
+======
+
+This library allows the creation of thrift clients and servers using AMQP
+with the pyamqplib for the communication.
+
+For installation instructions see the INSTALL file in this directory.
+
+For more information about thrift, visit
+
+    http://incubator.apache.org/thrift/
+    
+For more information about pyamqplib, visit:
+    
+    http://code.google.com/p/py-amqplib/
+
+For more information about AMQP, visit
+
+    http://www.amqp.org
