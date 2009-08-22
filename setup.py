@@ -7,7 +7,6 @@ setup(
     author='Jonathan Stoppani',
     author_email='jonathan.stoppani@edu.hefr.ch',
     url='http://github.com/garetjax/pyamqplib-thrift',
-    download_url='http://github.com/garetjax/pyamqplib-thrift/tarball/master',
     packages=['amqplib_thrift'],
     license='MIT',
     requires=('amqplib',),
@@ -15,7 +14,9 @@ setup(
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python',
         'Topic :: Internet',
-        'Topic :: System :: Networking',
+        'Topic :: Software Development :: Libraries :: Python Modules',
     ]
 )
