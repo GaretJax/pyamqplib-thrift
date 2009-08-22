@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='amqplib_trift',
+    name='amqplib_thrift',
     version='0.1',
     description='Python library to use thrift services (client and servers) over AMQP with pyamqplib',
     author='Jonathan Stoppani',
